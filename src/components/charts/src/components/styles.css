@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  
+  html {
+  
+    color: white;
+  }
+  
+  ul li {
+    display: flex;
+    align-items: right;
+  }

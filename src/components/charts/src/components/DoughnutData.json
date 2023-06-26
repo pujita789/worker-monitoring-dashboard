@@ -1,0 +1,56 @@
+{
+    "weekly": [
+      {
+        "week": "2023-05-01",
+        "present": 120,
+        "absent": 30,
+        "on_leave": 10,
+        "on_break": 5
+      },
+      {
+        "week": "2023-05-08",
+        "present": 115,
+        "absent": 25,
+        "on_leave": 15,
+        "on_break": 8
+      }
+    ],
+    "daily": [
+      {
+        "date": "2023-05-01",
+        "present": 25,
+        "absent": 5,
+        "on_leave": 2,
+        "on_break": 1
+      },
+      {
+        "date": "2023-05-02",
+        "present": 28,
+        "absent": 3,
+        "on_leave": 4,
+        "on_break": 2
+      },
+      {
+        "date": "2023-05-03",
+        "present": 22,
+        "absent": 7,
+        "on_leave": 3,
+        "on_break": 0
+      },
+      {
+        "date": "2023-05-04",
+        "present": 27,
+        "absent": 2,
+        "on_leave": 1,
+        "on_break": 1
+      },
+      {
+        "date": "2023-05-05",
+        "present": 30,
+        "absent": 3,
+        "on_leave": 2,
+        "on_break": 2
+      }
+    ]
+  }
+  
